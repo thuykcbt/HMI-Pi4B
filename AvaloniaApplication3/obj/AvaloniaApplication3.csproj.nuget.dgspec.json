@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\AvaloniaApplication3.csproj": {}
+    "D:\\01. Workspace\\03. Project\\13.R&D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\AvaloniaApplication3.csproj": {}
   },
   "projects": {
-    "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\AvaloniaApplication3.csproj": {
+    "D:\\01. Workspace\\03. Project\\13.R&D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\AvaloniaApplication3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\AvaloniaApplication3.csproj",
+        "projectUniqueName": "D:\\01. Workspace\\03. Project\\13.R&D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\AvaloniaApplication3.csproj",
         "projectName": "AvaloniaApplication3",
-        "projectPath": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\AvaloniaApplication3.csproj",
+        "projectPath": "D:\\01. Workspace\\03. Project\\13.R&D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\AvaloniaApplication3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\obj\\",
+        "outputPath": "D:\\01. Workspace\\03. Project\\13.R&D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",

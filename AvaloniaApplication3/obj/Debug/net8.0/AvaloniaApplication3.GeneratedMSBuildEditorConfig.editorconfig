@@ -20,41 +20,41 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AvaloniaApplication3
-build_property.ProjectDir = D:\01. Workspace\ThuyProject\AvaloniaApplication3\
+build_property.ProjectDir = D:\01. Workspace\03. Project\13.R&D Cobot\Code\HMI-Pi4B\AvaloniaApplication3\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/App.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Styles/Styles1.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Styles/Styles1.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Styles/Styles2.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Styles/Styles2.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Views/ActionPageView.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Views/ActionPageView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Views/HistoryPageView.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Views/HistoryPageView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Views/HomePageView.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Views/HomePageView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Views/MacrosPageView.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Views/MacrosPageView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Views/MainWindow.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Views/ProcessPageView.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Views/ProcessPageView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Views/ReporterPageView.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Views/ReporterPageView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/01. Workspace/ThuyProject/AvaloniaApplication3/Views/SettingPageView.axaml]
+[D:/01. Workspace/03. Project/13.R&D Cobot/Code/HMI-Pi4B/AvaloniaApplication3/Views/SettingPageView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
