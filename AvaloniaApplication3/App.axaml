@@ -1,0 +1,41 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="AvaloniaApplication3.App"
+             xmlns:local="clr-namespace:AvaloniaApplication3"
+             RequestedThemeVariant="Default">
+             <!-- "Default" ThemeVariant follows system theme variant. "Dark" or "Light" are other available options. -->
+	<Application.DataTemplates>
+		<local:ViewLocator></local:ViewLocator>
+	</Application.DataTemplates>
+             
+             
+             <Application.Styles>
+		
+		<StyleInclude Source="Styles/Styles1.axaml"></StyleInclude>
+		
+	</Application.Styles>
+	<Application.Resources>
+	
+		<SolidColorBrush x:Key="PrimaryForeground">#CFCFCF</SolidColorBrush>
+		<SolidColorBrush x:Key="PrimaryBackground">#14172D</SolidColorBrush>
+
+		<LinearGradientBrush x:Key="PrimaryBackgroundGradient" StartPoint="0,0" EndPoint="100,0">
+			<GradientStop Offset="0" Color="#111214"></GradientStop>
+			<GradientStop Offset="1" Color="#151E3E"></GradientStop>
+		</LinearGradientBrush>
+		<SolidColorBrush x:Key="PrimaryHoverBackground">#333B5A</SolidColorBrush>
+		<SolidColorBrush x:Key="PrimaryHoverForeground">White</SolidColorBrush>
+		<SolidColorBrush x:Key="PrimaryPressForeground">Black</SolidColorBrush>
+		<SolidColorBrush x:Key="PrimaryPressBackground">White</SolidColorBrush>
+		<SolidColorBrush x:Key="PrimaryActiveBackground">#6622dd</SolidColorBrush>
+
+		<FontFamily x:Key="Phosphor">/Assets/Font/Phosphor.ttf#Phosphor</FontFamily>
+		<FontFamily x:Key="PhosphorBold">/Assets/Font/Phosphor-Bold.ttf#Phosphor-Bold</FontFamily>
+		<FontFamily x:Key="PhosphorDoutone">/Assets/Font/Phosphor-Doutone.ttf#Phosphor-Doutone</FontFamily>
+		<FontFamily x:Key="PhosphorFill">/Assets/Font/Phosphor-Fill.ttf#Phosphor-Fill</FontFamily>
+		<FontFamily x:Key="PhosphorLight">/Assets/Font/Phosphor-Light.ttf#Phosphor-Light</FontFamily>
+		<FontFamily x:Key="PhosphorThin">/Assets/Font/Phosphor-Thin.ttf#Phosphor-Thin</FontFamily>
+	</Application.Resources>
+   
+	
+</Application>

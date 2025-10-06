@@ -1,0 +1,17 @@
+<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Design.PreviewWith>
+    <Border Padding="20">
+      <!-- Add Controls for Previewer Here -->
+
+		<Button HorizontalAlignment="Stretch">
+			<StackPanel Orientation="Horizontal">
+				<Label Classes="icon" Content=""></Label>
+				<Label Classes="akocn"  Content="Home"></Label>
+			</StackPanel>
+		</Button>
+    </Border>
+  </Design.PreviewWith>
+
+  <!-- Add Styles Here -->
+</Styles>

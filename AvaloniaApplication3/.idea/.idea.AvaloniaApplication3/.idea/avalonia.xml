@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="App.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="MainWindow.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Styles/Styles1.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Styles/Styles2.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Views/ActionPageView.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Views/HistoryPageView.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Views/HomePageView.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Views/HomePageViewModel.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Views/MacrosPageView.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Views/MainWindow.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Views/ProcessPageView.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Views/ReporterPageView.axaml" value="AvaloniaApplication3.csproj" />
+        <entry key="Views/SettingPageView.axaml" value="AvaloniaApplication3.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
