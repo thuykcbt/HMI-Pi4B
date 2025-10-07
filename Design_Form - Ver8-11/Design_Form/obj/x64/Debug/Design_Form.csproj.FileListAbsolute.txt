@@ -2857,3 +2857,4 @@ D:\01. Workspace\03. Project\13.R&D Cobot\Code\HMI-Pi4B\Design_Form - Ver8-11\De
 D:\01. Workspace\03. Project\13.R&D Cobot\Code\HMI-Pi4B\Design_Form - Ver8-11\Design_Form\obj\x64\Debug\Design_F.7829C4E7.Up2Date
 D:\01. Workspace\03. Project\13.R&D Cobot\Code\HMI-Pi4B\Design_Form - Ver8-11\Design_Form\obj\x64\Debug\Design_Form.exe
 D:\01. Workspace\03. Project\13.R&D Cobot\Code\HMI-Pi4B\Design_Form - Ver8-11\Design_Form\obj\x64\Debug\Design_Form.pdb
+D:\01. Workspace\03. Project\13.R&D Cobot\Code\HMI-Pi4B\Design_Form - Ver8-11\Design_Form\obj\x64\Debug\Design_Form.exe.config

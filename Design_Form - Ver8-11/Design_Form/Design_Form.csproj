@@ -275,6 +275,12 @@
     <Compile Include="UserForm\Select_model.Designer.cs">
       <DependentUpon>Select_model.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserForm\ImageFillter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserForm\ImageFillter.Designer.cs">
+      <DependentUpon>ImageFillter.cs</DependentUpon>
+    </Compile>
     <Compile Include="UserForm\User_Calib.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -609,6 +615,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UserForm\Select_model.resx">
       <DependentUpon>Select_model.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserForm\ImageFillter.resx">
+      <DependentUpon>ImageFillter.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserForm\User_Calib.resx">
       <DependentUpon>User_Calib.cs</DependentUpon>

@@ -30,6 +30,7 @@ namespace Design_Form
         VisionHalcon vision_hacon = new VisionHalcon();
         Job_Model.LibaryHalcon libaryHalcon = new Job_Model.LibaryHalcon();
         HObject InputIMG;
+        HObject[] buffer_image = new HObject[5];
         public int treejob = 0;
         public int treetool = 0;
         public int camera = 0;
@@ -417,30 +418,42 @@ namespace Design_Form
                 if (selectedNode != null)
                 {
                     
-                    if (selectedNode.Parent.Parent != null)
+                    if (selectedNode.Parent != null)
                     {
-                        
-                        treejob = selectedNode.Parent.Parent.Index;
-                        treeimage = selectedNode.Parent.Index;
-                        treetool = selectedNode.Index;
-                        Job_Model.Statatic_Model.job_index = treejob;
-                        Job_Model.Statatic_Model.tool_index = treetool;
-                        Job_Model.Statatic_Model.image_index = treeimage;
-                        load_username();
-                        load_Tree_Roi_Tool();
-                        if (Job_Model.Statatic_Model.model_run.Cameras[camera].Jobs[treejob].Images[treeimage].Tools.Count > 0)
+                        if (selectedNode.Parent.Parent != null)
                         {
-                            numeric_cali.Value = (decimal)Job_Model.Statatic_Model.model_run.Cameras[camera].Jobs[treejob].Images[treeimage].Tools[treetool].cali;
-                        }
+
+                            treejob = selectedNode.Parent.Parent.Index;
+                            treeimage = selectedNode.Parent.Index;
+                            treetool = selectedNode.Index;
+                            Job_Model.Statatic_Model.job_index = treejob;
+                            Job_Model.Statatic_Model.tool_index = treetool;
+                            Job_Model.Statatic_Model.image_index = treeimage;
+                            load_username();
+                            load_Tree_Roi_Tool();
+                        }                        
+                      else
+                        {
+                            treejob = selectedNode.Parent.Index;
+                            treeimage = selectedNode.Index;
+                            Job_Model.Statatic_Model.job_index = treejob;
+                            Job_Model.Statatic_Model.image_index = treeimage;
+                          
+                            
+                        }    
+                      
 
                     }
                     else
                     {
-                        treejob = selectedNode.Index;
-                        treetool = -1;
-                        Job_Model.Statatic_Model.job_index = treejob;
-                        Job_Model.Statatic_Model.tool_index = treetool;
-                        load_user_job();
+                      
+                            treejob = selectedNode.Index;
+                            treeimage = -1;
+                            Job_Model.Statatic_Model.job_index = treejob;
+                            Job_Model.Statatic_Model.image_index = treeimage;
+                            load_user_job();
+                            
+                      
                     }
                       
                        
@@ -529,7 +542,7 @@ namespace Design_Form
                         select_Model.load_parameter();
                         break;
                 }
-                treeView1.Nodes[treejob].Nodes[treetool].Text = "Tool" + (treetool).ToString() + ":" + nametool;
+             //   treeView1.Nodes[treejob].Nodes[treetool].Text = "Tool" + (treetool).ToString() + ":" + nametool;
             }
             catch(Exception e) { Job_Model.Statatic_Model.wirtelog.Log(e.ToString()); }
            
@@ -543,7 +556,7 @@ namespace Design_Form
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            label1.Text = "Job : " + treejob.ToString() + " " + "Tool : " + treetool.ToString()+"\r" + "Insert_Tool : " + insert_tool.ToString();
+            label1.Text = "Job : " + treejob.ToString() + "Image : " + treeimage.ToString() + " " + "Tool : " + treetool.ToString()+"\r" + "Insert_Tool : " + insert_tool.ToString();
         }
         // Button Save Model
         private string currentFilePath = string.Empty;
@@ -1204,9 +1217,27 @@ namespace Design_Form
             }
             insert_tool=false;
         }
+        private bool check_add_tool()
+        {
+            bool check = false;
+            if (Statatic_Model.model_run.Cameras[camera].Jobs[treejob].Images.Count>0)
+                check = true;
+            else
+            {
+                check = false;
+                MessageBox.Show("Please add Image ");
+            }
+                
+
+            return check;
+        }
         // button add findline
         private void barButtonItem3_ItemClick_1(object sender, ItemClickEventArgs e)
         {
+            if(!check_add_tool())
+            {
+                return;
+            }    
             FindLineTool tool = new FindLineTool();
             if(!insert_tool)
             {
@@ -1223,6 +1254,10 @@ namespace Design_Form
         // Button Add Shape Model
         private void barButtonItem6_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             ShapeModelTool tool = new ShapeModelTool();
             if (!insert_tool)
             {
@@ -1239,6 +1274,10 @@ namespace Design_Form
         // them tool fixture
         private void barButtonItem7_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             FixtureTool tool = new FixtureTool();
             if (!insert_tool)
             {
@@ -1255,6 +1294,10 @@ namespace Design_Form
         // button add FindCircle
         private void barButtonItem4_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             FindCircleTool tool = new FindCircleTool();
             if (!insert_tool)
             {
@@ -1271,6 +1314,10 @@ namespace Design_Form
         // button add FindDistance
         private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             FindDistanceTool tool = new FindDistanceTool();
             if (!insert_tool)
             {
@@ -1287,6 +1334,10 @@ namespace Design_Form
         // button add Histogram
         private void barButtonItem1_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             HistogramTool tool = new HistogramTool();
             if (!insert_tool)
             {
@@ -1303,6 +1354,10 @@ namespace Design_Form
         // button add Blob Tool
         private void barButtonItem2_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             BlobTool tool = new BlobTool();
             if (!insert_tool)
             {
@@ -1319,6 +1374,10 @@ namespace Design_Form
         // button add Image_Tool_Roate
         private void barButtonItem10_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             Image_Roate tool = new Image_Roate();
             if (!insert_tool)
             {
@@ -1335,6 +1394,10 @@ namespace Design_Form
         // button add Barcode_2D_Tool
         private void barAddBarCode2D_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             Barcode_2D tool = new Barcode_2D();
             if (!insert_tool)
             {
@@ -1351,6 +1414,10 @@ namespace Design_Form
         // button add Save_Image_Tool
         private void barButtonItem11_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             Save_Image_Tool tool = new Save_Image_Tool();
             if (!insert_tool)
             {
@@ -1367,6 +1434,10 @@ namespace Design_Form
 
         private void barButtonItem12_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             Segmentation_Tool tool = new Segmentation_Tool();
             if (!insert_tool)
             {
@@ -1383,6 +1454,10 @@ namespace Design_Form
 
         private void barButtonItem13_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             OCR_Tool tool = new OCR_Tool();
             if (!insert_tool)
             {
@@ -1404,6 +1479,10 @@ namespace Design_Form
 
         private void barButtonItem14_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             FitLine_Tool tool = new FitLine_Tool();
             if (!insert_tool)
             {
@@ -1422,6 +1501,10 @@ namespace Design_Form
 
         private void barButtonItem16_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             Calibrate_Plate_Tool tool = new Calibrate_Plate_Tool();
             if (!insert_tool)
             {
@@ -1438,6 +1521,10 @@ namespace Design_Form
 
         private void barButtonItem17_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             Fillter_Tool tool = new Fillter_Tool();
             if (!insert_tool)
             {
@@ -1454,6 +1541,10 @@ namespace Design_Form
 
         private void barButtonItem18_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             Cal_Hand_Eye_Tool tool = new Cal_Hand_Eye_Tool();
             if (!insert_tool)
             {
@@ -1470,6 +1561,10 @@ namespace Design_Form
 
         private void barButtonItem19_ItemClick(object sender, ItemClickEventArgs e)
         {
+            if (!check_add_tool())
+            {
+                return;
+            }
             Select_model_tool tool = new Select_model_tool();
             if (!insert_tool)
             {
@@ -1489,8 +1584,36 @@ namespace Design_Form
 
         }
 
-     
+        private void imageToBF1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if(InputIMG!=null)
+            {
+                buffer_image[0]=InputIMG;
+            }    
+        }
 
-       
+        private void imageToBF2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (InputIMG != null)
+            {
+                buffer_image[1] = InputIMG;
+            }
+        }
+
+        private void imageToBF3ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (InputIMG != null)
+            {
+                buffer_image[2] = InputIMG;
+            }
+        }
+
+        private void imageToBF3ToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            if (InputIMG != null)
+            {
+                buffer_image[3] = InputIMG;
+            }
+        }
     }
 }
