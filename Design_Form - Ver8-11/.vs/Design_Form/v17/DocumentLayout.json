@@ -7,6 +7,7 @@
       "RelativeMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|solutionrelative:design_form\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\design_form - ver8-11\\design_form\\userform\\imagefillter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|solutionrelative:design_form\\userform\\imagefillter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +32,8 @@
       "RelativeMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|solutionrelative:design_form\\user_fillter\\mean_image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+=======
+>>>>>>> 9d4e899a0f5f0961f62c495fb8195543d8523579
       "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\design_form\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|solutionrelative:design_form\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -227,8 +230,12 @@
               "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\UserForm\\ImageFillter.cs [Design]",
               "RelativeToolTip": "Design_Form\\UserForm\\ImageFillter.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-10-07T07:44:10.954Z",
               "EditorCaption": " [Design]"
+=======
+              "WhenOpened": "2025-10-07T02:53:56.377Z"
+>>>>>>> 9d4e899a0f5f0961f62c495fb8195543d8523579
             },
             {
               "$type": "Document",
@@ -239,6 +246,7 @@
               "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\UserForm\\UserFitLine.cs [Design]",
               "RelativeToolTip": "Design_Form\\UserForm\\UserFitLine.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-10-07T07:42:00.14Z",
               "EditorCaption": " [Design]"
             },
@@ -253,6 +261,9 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T07:41:58.974Z",
               "EditorCaption": " [Design]"
+=======
+              "WhenOpened": "2025-10-07T02:53:26.142Z"
+>>>>>>> 9d4e899a0f5f0961f62c495fb8195543d8523579
             },
             {
               "$type": "Document",
@@ -260,9 +271,15 @@
               "Title": "Setting.cs",
               "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\Setting.cs",
               "RelativeDocumentMoniker": "Design_Form\\Setting.cs",
+<<<<<<< HEAD
               "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\Setting.cs",
               "RelativeToolTip": "Design_Form\\Setting.cs",
               "ViewState": "AgIAAKkBAAAAAAAAAAAwwMgBAAAAAAAAAAAAAA==",
+=======
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\Setting.cs*",
+              "RelativeToolTip": "Design_Form\\Setting.cs*",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAAAMIBAABMAAAAAAAAAA==",
+>>>>>>> 9d4e899a0f5f0961f62c495fb8195543d8523579
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T08:42:22.218Z",
               "EditorCaption": ""
@@ -325,8 +342,7 @@
               "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\Setting.cs [Design]",
               "RelativeToolTip": "Design_Form\\Setting.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T08:42:20.195Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-22T08:42:20.195Z"
             },
             {
               "$type": "Document",

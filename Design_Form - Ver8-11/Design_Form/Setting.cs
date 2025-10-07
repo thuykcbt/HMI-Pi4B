@@ -420,6 +420,7 @@ namespace Design_Form
                     
                     if (selectedNode.Parent != null)
                     {
+<<<<<<< HEAD
                         if (selectedNode.Parent.Parent != null)
                         {
 
@@ -441,18 +442,48 @@ namespace Design_Form
                           
                             
                         }    
+=======
+                        
+                        treejob = selectedNode.Parent.Parent.Index;
+                        treeimage = selectedNode.Parent.Index;
+                        treetool = selectedNode.Index;
+                        Job_Model.Statatic_Model.job_index = treejob;
+                        Job_Model.Statatic_Model.tool_index = treetool;
+                        Job_Model.Statatic_Model.image_index = treeimage;
+                        load_username();
+                        load_Tree_Roi_Tool();
+>>>>>>> 9d4e899a0f5f0961f62c495fb8195543d8523579
                       
 
                     }
                     else
                     {
+<<<<<<< HEAD
                       
+=======
+                        if(selectedNode.Parent != null)
+                        {
+                           
+                            treejob = selectedNode.Parent.Index;
+                            treeimage = selectedNode.Index;
+                            Job_Model.Statatic_Model.job_index = treejob;
+                            Job_Model.Statatic_Model.image_index = treeimage;
+                            load_username();
+                            load_Tree_Roi_Tool();
+                        }    
+                       else
+                        {
+>>>>>>> 9d4e899a0f5f0961f62c495fb8195543d8523579
                             treejob = selectedNode.Index;
                             treeimage = -1;
                             Job_Model.Statatic_Model.job_index = treejob;
                             Job_Model.Statatic_Model.image_index = treeimage;
                             load_user_job();
+<<<<<<< HEAD
                             
+=======
+                        }    
+>>>>>>> 9d4e899a0f5f0961f62c495fb8195543d8523579
                       
                     }
                       
