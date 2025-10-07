@@ -322,6 +322,14 @@ namespace Design_Form
             treejob++;
             load_Tree();
         }
+        // ContextMenu Add_Image
+        private void addImageTool_Click(object sender, EventArgs e)
+        {
+            Class_Image image = new Class_Image();
+            Job_Model.Statatic_Model.model_run.Cameras[camera].Jobs[treejob].Images.Add(image);
+            treeimage++;
+            load_Tree();
+        }
         // Combobox selet_camera
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -363,7 +371,7 @@ namespace Design_Form
                                 TreeNode Node3 = new TreeNode();
                                 Node3.Text = "Tool" + (k).ToString() + ":" + Job_Model.Statatic_Model.model_run.Cameras[camera].Jobs[i].Images[j].Tools[k].ToolName;
                                 Node3.Name = (k).ToString();
-                                treeView1.Nodes[i].Nodes[j].Nodes.Add(Node1);
+                                treeView1.Nodes[i].Nodes[j].Nodes.Add(Node3);
                             }    
 
                         }
@@ -409,12 +417,15 @@ namespace Design_Form
                 if (selectedNode != null)
                 {
                     
-                    if (selectedNode.Parent != null)
+                    if (selectedNode.Parent.Parent != null)
                     {
-                        treejob = selectedNode.Parent.Index;
+                        
+                        treejob = selectedNode.Parent.Parent.Index;
+                        treeimage = selectedNode.Parent.Index;
                         treetool = selectedNode.Index;
                         Job_Model.Statatic_Model.job_index = treejob;
                         Job_Model.Statatic_Model.tool_index = treetool;
+                        Job_Model.Statatic_Model.image_index = treeimage;
                         load_username();
                         load_Tree_Roi_Tool();
                         if (Job_Model.Statatic_Model.model_run.Cameras[camera].Jobs[treejob].Images[treeimage].Tools.Count > 0)
@@ -1477,5 +1488,9 @@ namespace Design_Form
         {
 
         }
+
+     
+
+       
     }
 }
