@@ -1,0 +1,80 @@
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI3\LModbus\bin\Debug\LModbus.dll
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI3\LModbus\bin\Debug\LModbus.pdb
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI3\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI3\LModbus\obj\Debug\LModbus.dll
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI3\LModbus\obj\Debug\LModbus.pdb
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI4\LModbus\bin\Debug\LModbus.dll
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI4\LModbus\bin\Debug\LModbus.pdb
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI4\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI4\LModbus\obj\Debug\LModbus.dll
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI4\LModbus\obj\Debug\LModbus.pdb
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI5\LModbus\bin\Debug\LModbus.dll
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI5\LModbus\bin\Debug\LModbus.pdb
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI5\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI5\LModbus\obj\Debug\LModbus.dll
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI5\LModbus\obj\Debug\LModbus.pdb
+C:\Users\LONGLH\source\repos\WindowsFormsApp_AOI5\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+D:\SOURCE\repos\AIO\WindowsFormsApp_AOI5\LModbus\bin\Debug\LModbus.dll
+D:\SOURCE\repos\AIO\WindowsFormsApp_AOI5\LModbus\bin\Debug\LModbus.pdb
+D:\SOURCE\repos\AIO\WindowsFormsApp_AOI5\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+D:\SOURCE\repos\AIO\WindowsFormsApp_AOI5\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+D:\SOURCE\repos\AIO\WindowsFormsApp_AOI5\LModbus\obj\Debug\LModbus.dll
+D:\SOURCE\repos\AIO\WindowsFormsApp_AOI5\LModbus\obj\Debug\LModbus.pdb
+F:\SYMKOS\PG\SOFTWARE\AutoVisionAndBarcodeReadingMc\LModbus\bin\Debug\LModbus.dll
+F:\SYMKOS\PG\SOFTWARE\AutoVisionAndBarcodeReadingMc\LModbus\bin\Debug\LModbus.pdb
+F:\SYMKOS\PG\SOFTWARE\AutoVisionAndBarcodeReadingMc\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+F:\SYMKOS\PG\SOFTWARE\AutoVisionAndBarcodeReadingMc\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+F:\SYMKOS\PG\SOFTWARE\AutoVisionAndBarcodeReadingMc\LModbus\obj\Debug\LModbus.dll
+F:\SYMKOS\PG\SOFTWARE\AutoVisionAndBarcodeReadingMc\LModbus\obj\Debug\LModbus.pdb
+F:\SYMKOS\PG\refer\Program seojin\Software\3D Laser Scanner\LModbus\bin\Debug\LModbus.dll
+F:\SYMKOS\PG\refer\Program seojin\Software\3D Laser Scanner\LModbus\bin\Debug\LModbus.pdb
+F:\SYMKOS\PG\refer\Program seojin\Software\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+F:\SYMKOS\PG\refer\Program seojin\Software\3D Laser Scanner\LModbus\obj\Debug\LModbus.dll
+F:\SYMKOS\PG\refer\Program seojin\Software\3D Laser Scanner\LModbus\obj\Debug\LModbus.pdb
+D:\SYMKOS\2022\10. Hansol\300422\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.dll
+D:\SYMKOS\2022\10. Hansol\300422\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.pdb
+D:\SYMKOS\2022\10. Hansol\300422\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+D:\SYMKOS\2022\10. Hansol\300422\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+D:\SYMKOS\2022\10. Hansol\300422\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.dll
+D:\SYMKOS\2022\10. Hansol\300422\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.pdb
+F:\SYMKOS\PG\Software 220526\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.dll
+F:\SYMKOS\PG\Software 220526\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.pdb
+F:\SYMKOS\PG\Software 220526\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+F:\SYMKOS\PG\Software 220526\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+F:\SYMKOS\PG\Software 220526\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.dll
+F:\SYMKOS\PG\Software 220526\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.pdb
+F:\SYMKOS\PG\Software 220531\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.dll
+F:\SYMKOS\PG\Software 220531\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.pdb
+F:\SYMKOS\PG\Software 220531\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+F:\SYMKOS\PG\Software 220531\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.dll
+F:\SYMKOS\PG\Software 220531\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.pdb
+D:\SYMKOS\2022\10. Hansol\PG\220602\Software 220602\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.dll
+D:\SYMKOS\2022\10. Hansol\PG\220602\Software 220602\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.pdb
+D:\SYMKOS\2022\10. Hansol\PG\220602\Software 220602\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+D:\SYMKOS\2022\10. Hansol\PG\220602\Software 220602\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+D:\SYMKOS\2022\10. Hansol\PG\220602\Software 220602\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.dll
+D:\SYMKOS\2022\10. Hansol\PG\220602\Software 220602\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.pdb
+F:\SYMKOS\PG 220630\220716\Software\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.dll
+F:\SYMKOS\PG 220630\220716\Software\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\bin\Debug\LModbus.pdb
+F:\SYMKOS\PG 220630\220716\Software\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+F:\SYMKOS\PG 220630\220716\Software\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+F:\SYMKOS\PG 220630\220716\Software\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.dll
+F:\SYMKOS\PG 220630\220716\Software\AutoVisionAndCodeReadingMC\3D Laser Scanner\LModbus\obj\Debug\LModbus.pdb
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230907 - Modbus\SLTtechSoft\LModbus\bin\Debug\LModbus.dll
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230907 - Modbus\SLTtechSoft\LModbus\bin\Debug\LModbus.pdb
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230907 - Modbus\SLTtechSoft\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230907 - Modbus\SLTtechSoft\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230907 - Modbus\SLTtechSoft\LModbus\obj\Debug\LModbus.dll
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230907 - Modbus\SLTtechSoft\LModbus\obj\Debug\LModbus.pdb
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230913\SLTtechSoft\LModbus\bin\Debug\LModbus.dll
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230913\SLTtechSoft\LModbus\bin\Debug\LModbus.pdb
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230913\SLTtechSoft\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230913\SLTtechSoft\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230913\SLTtechSoft\LModbus\obj\Debug\LModbus.dll
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230913\SLTtechSoft\LModbus\obj\Debug\LModbus.pdb
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230921\SLTtechSoft\LModbus\bin\Debug\LModbus.dll
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230921\SLTtechSoft\LModbus\bin\Debug\LModbus.pdb
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230921\SLTtechSoft\LModbus\obj\Debug\LModbus.csproj.AssemblyReference.cache
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230921\SLTtechSoft\LModbus\obj\Debug\LModbus.csproj.CoreCompileInputs.cache
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230921\SLTtechSoft\LModbus\obj\Debug\LModbus.dll
+D:\SLT\PROJECT\12. Yeojin\6. Software - Auto Marking Mc - DH innorex\PC\20230921\SLTtechSoft\LModbus\obj\Debug\LModbus.pdb

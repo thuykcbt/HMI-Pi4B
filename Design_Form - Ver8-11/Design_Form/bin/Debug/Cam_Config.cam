@@ -1,0 +1,12 @@
+[
+  {
+    "name": "GigEVision2",
+    "device": "000cdf0a2ded_JAICorporation_GO5101MPGE",
+    "TriggerMode": "Off"
+  },
+  {
+    "name": "USB3Vision",
+    "device": "CAM0",
+    "TriggerMode": null
+  }
+]
