@@ -428,19 +428,30 @@ namespace Design_Form
                         Job_Model.Statatic_Model.image_index = treeimage;
                         load_username();
                         load_Tree_Roi_Tool();
-                        if (Job_Model.Statatic_Model.model_run.Cameras[camera].Jobs[treejob].Images[treeimage].Tools.Count > 0)
-                        {
-                            numeric_cali.Value = (decimal)Job_Model.Statatic_Model.model_run.Cameras[camera].Jobs[treejob].Images[treeimage].Tools[treetool].cali;
-                        }
+                      
 
                     }
                     else
                     {
-                        treejob = selectedNode.Index;
-                        treetool = -1;
-                        Job_Model.Statatic_Model.job_index = treejob;
-                        Job_Model.Statatic_Model.tool_index = treetool;
-                        load_user_job();
+                        if(selectedNode.Parent != null)
+                        {
+                           
+                            treejob = selectedNode.Parent.Index;
+                            treeimage = selectedNode.Index;
+                            Job_Model.Statatic_Model.job_index = treejob;
+                            Job_Model.Statatic_Model.image_index = treeimage;
+                            load_username();
+                            load_Tree_Roi_Tool();
+                        }    
+                       else
+                        {
+                            treejob = selectedNode.Index;
+                            treeimage = -1;
+                            Job_Model.Statatic_Model.job_index = treejob;
+                            Job_Model.Statatic_Model.image_index = treeimage;
+                            load_user_job();
+                        }    
+                      
                     }
                       
                        

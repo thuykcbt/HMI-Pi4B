@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\design_form\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\design_form - ver8-11\\design_form\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|solutionrelative:design_form\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\design_form - ver8-11\\design_form\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\design_form\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|solutionrelative:design_form\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,11 +15,11 @@
       "RelativeMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|solutionrelative:design_form\\job_model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\design_form - ver8-11\\design_form\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\design_form\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|solutionrelative:design_form\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\design_form - ver8-11\\design_form\\livecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\design_form\\livecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EAAF5278-1904-4641-87EB-D455E4E9A659}|Design_Form\\Design_Form.csproj|solutionrelative:design_form\\livecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -202,8 +202,7 @@
               "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\ReportForm.cs [Design]",
               "RelativeToolTip": "Design_Form\\ReportForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T02:53:56.377Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-07T02:53:56.377Z"
             },
             {
               "$type": "Document",
@@ -214,8 +213,7 @@
               "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\LiveCamera.cs [Design]",
               "RelativeToolTip": "Design_Form\\LiveCamera.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T02:53:26.142Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-07T02:53:26.142Z"
             },
             {
               "$type": "Document",
@@ -223,9 +221,9 @@
               "Title": "Setting.cs",
               "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\Setting.cs",
               "RelativeDocumentMoniker": "Design_Form\\Setting.cs",
-              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\Setting.cs",
-              "RelativeToolTip": "Design_Form\\Setting.cs",
-              "ViewState": "AgIAAIMBAAAAAAAAAAAuwL0BAAAXAAAAAAAAAA==",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\Setting.cs*",
+              "RelativeToolTip": "Design_Form\\Setting.cs*",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAAAMIBAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T08:42:22.218Z",
               "EditorCaption": ""
@@ -239,8 +237,7 @@
               "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\Design_Form - Ver8-11\\Design_Form\\Setting.cs [Design]",
               "RelativeToolTip": "Design_Form\\Setting.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T08:42:20.195Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-22T08:42:20.195Z"
             },
             {
               "$type": "Document",
@@ -252,8 +249,7 @@
               "RelativeToolTip": "Design_Form\\Job_Model\\Model.cs",
               "ViewState": "AgIAAJEAAAAAAAAAAAAcwJkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T01:20:27.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T01:20:27.766Z"
             },
             {
               "$type": "Document",
