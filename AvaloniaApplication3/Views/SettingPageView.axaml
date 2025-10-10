@@ -2,7 +2,43 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             mc:Ignorable="d" d:DesignWidth="1000" d:DesignHeight="600"
+             Background="{DynamicResource PrimaryBackground}"
+             Foreground="{DynamicResource PrimaryForeground}"
              x:Class="AvaloniaApplication3.Views.SettingPageView">
-    Welcome to Avalonia!
+   <Grid ColumnDefinitions="*,*" RowDefinitions="Auto,*">
+      <!-- Header-->
+      <Grid Name="HeaderGrid" Grid.ColumnSpan="2"  >
+          <Image  Source="avares://AvaloniaApplication3/Assets/Images/Doraemon-PNG-Photos.png"
+                  Stretch="Fill"  Height="170">
+          </Image>
+          <StackPanel HorizontalAlignment="">
+              <Label Content="Settings"></Label>
+              <Label Content="Version 3.0.0.2 Beta"></Label>
+              <Label Content="Compiled Oct 10"></Label>
+          </StackPanel>
+      </Grid>
+      <!-- Left side Content -->
+      <StackPanel Grid.Row="1" Grid.Column="0" Spacing="15" Margin="15" >
+          <!-- General -->
+          <StackPanel>
+              <Label Content="General"></Label>
+              <Grid ColumnDefinitions="*,Auto" RowDefinitions="Auto,Auto,Auto">
+                  
+                  <!-- Release License -->
+                  <TextBlock  TextWrapping="Wrap" Text="Remove license of BatchProcess from this machine and release the license back to the server ready to be transferred to another machine."></TextBlock>
+                  <Button Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch">
+                      <StackPanel Orientation="Horizontal">
+                          <Label Classes="icon"  Content=""></Label>
+                          <Label Classes="font" Content="Reporter" ></Label>
+
+                      </StackPanel>
+                  </Button>
+                  <!-- Skip files -->
+                  <TextBlock Grid.Row="1" Grid.Column="0" TextWrapping="Wrap" Text="Skip file if only open,Save (Optional) and Close are valid actions."></TextBlock>
+              </Grid>
+          </StackPanel>
+         
+      </StackPanel>
+   </Grid>
 </UserControl>

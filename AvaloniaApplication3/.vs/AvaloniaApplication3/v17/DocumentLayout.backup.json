@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,7 +71,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml",
               "RelativeDocumentMoniker": "MainWindow.axaml",
@@ -120,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "MainWindow.axaml.cs",
               "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml.cs",
               "RelativeToolTip": "MainWindow.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T07:44:46.886Z",
               "EditorCaption": ""

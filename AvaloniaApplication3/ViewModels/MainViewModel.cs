@@ -44,10 +44,11 @@ namespace AvaloniaApplication3.ViewModels
       
        
         public Bitmap  SideMenuImage =>new Bitmap(AssetLoader.Open( new Uri("avares://AvaloniaApplication3/Assets/Images/Viettech.jpg")));
-
+          
+        // Design time only constructor
         public MainViewModel()
         {
-          // CurrentPage= new Setting
+            CurrentPage = new SettingPageViewModel();
         }
         public MainViewModel(PageFactory pageFactory)
         {

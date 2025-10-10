@@ -1,53 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\",
+  "WorkspaceRootPath": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\avaloniaapplication3\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\avaloniaapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\avaloniaapplication3\\avaloniaapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\styles\\styles2.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\avaloniaapplication3\\styles\\styles2.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:styles\\styles2.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\styles\\styles1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\avaloniaapplication3\\styles\\styles1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:styles\\styles1.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\assets\\images\\viettech.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\avaloniaapplication3\\assets\\images\\viettech.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:assets\\images\\viettech.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\assets\\images\\1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\avaloniaapplication3\\assets\\images\\1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:assets\\images\\1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\avaloniaapplication3\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\avaloniaapplication3\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
@@ -57,11 +44,20 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\VSGeneratedDocuments\\0df7fa72-682f-613c-46f5-a4e6590da59f\\AvaloniaApplication3.MainView.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\thuyproject\\avaloniaapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|d:\\01. workspace\\03. project\\13.r\u0026d cobot\\code\\hmi-pi4b\\avaloniaapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D49874-0D50-40AF-B160-C91C53D89DBA}|AvaloniaApplication3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\ViewModel\\MainViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\ViewModel\\ViewModelBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,11 +71,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "App.axaml",
-              "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\App.axaml",
+              "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\App.axaml",
               "RelativeDocumentMoniker": "App.axaml",
-              "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\App.axaml",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\App.axaml",
               "RelativeToolTip": "App.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-04T09:33:22.023Z",
@@ -87,11 +83,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "app.manifest",
-              "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\app.manifest",
+              "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\app.manifest",
               "RelativeDocumentMoniker": "app.manifest",
-              "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\app.manifest",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\app.manifest",
               "RelativeToolTip": "app.manifest",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
@@ -108,48 +104,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml",
-              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml",
               "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml",
-              "RelativeToolTip": "MainWindow.axaml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-04T09:28:05.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T09:28:05.822Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml.cs",
               "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml.cs",
-              "RelativeToolTip": "MainWindow.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ThuyProject\\AvaloniaApplication3\\MainWindow.axaml.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T07:44:46.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T07:44:46.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ThuyProject\\AvaloniaApplication3\\ViewModel\\MainViewModel.cs",
               "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ThuyProject\\AvaloniaApplication3\\ViewModel\\MainViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T07:36:48.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "App.axaml.cs",
-              "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\App.axaml.cs",
+              "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\App.axaml.cs",
               "RelativeDocumentMoniker": "App.axaml.cs",
-              "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\App.axaml.cs",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\App.axaml.cs",
               "RelativeToolTip": "App.axaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA/wBEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,58 +150,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AvaloniaApplication3.csproj",
-              "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\AvaloniaApplication3.csproj",
+              "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\AvaloniaApplication3.csproj",
               "RelativeDocumentMoniker": "AvaloniaApplication3.csproj",
-              "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\AvaloniaApplication3.csproj",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\AvaloniaApplication3.csproj",
               "RelativeToolTip": "AvaloniaApplication3.csproj",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-05T01:47:33.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T01:47:33.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\ViewModel\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\ThuyProject\\AvaloniaApplication3\\ViewModel\\ViewModelBase.cs",
               "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\ViewModel\\ViewModelBase.cs",
-              "RelativeToolTip": "ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\ThuyProject\\AvaloniaApplication3\\ViewModel\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T07:33:51.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Styles2.axaml",
-              "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Styles\\Styles2.axaml",
+              "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Styles\\Styles2.axaml",
               "RelativeDocumentMoniker": "Styles\\Styles2.axaml",
-              "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Styles\\Styles2.axaml",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Styles\\Styles2.axaml",
               "RelativeToolTip": "Styles\\Styles2.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-09T08:42:22.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Styles1.axaml",
-              "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Styles\\Styles1.axaml",
+              "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Styles\\Styles1.axaml",
               "RelativeDocumentMoniker": "Styles\\Styles1.axaml",
-              "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Styles\\Styles1.axaml",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Styles\\Styles1.axaml",
               "RelativeToolTip": "Styles\\Styles1.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-04T09:32:34.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Viettech.jpg - Bitmap [568x580, 24 bit, JPG]",
-              "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Assets\\Images\\Viettech.jpg",
+              "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Assets\\Images\\Viettech.jpg",
               "RelativeDocumentMoniker": "Assets\\Images\\Viettech.jpg",
-              "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Assets\\Images\\Viettech.jpg - Bitmap [568x580, 24 bit, JPG]",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Assets\\Images\\Viettech.jpg - Bitmap [568x580, 24 bit, JPG]",
               "RelativeToolTip": "Assets\\Images\\Viettech.jpg - Bitmap [568x580, 24 bit, JPG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-09-05T12:52:25.359Z",
@@ -216,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "1.png - PNG [1920x1080, 32 bit, PNG]",
-              "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Assets\\Images\\1.png",
+              "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Assets\\Images\\1.png",
               "RelativeDocumentMoniker": "Assets\\Images\\1.png",
-              "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Assets\\Images\\1.png - PNG [1920x1080, 32 bit, PNG]",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Assets\\Images\\1.png - PNG [1920x1080, 32 bit, PNG]",
               "RelativeToolTip": "Assets\\Images\\1.png - PNG [1920x1080, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-09-29T08:44:14.234Z",
@@ -228,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "AvaloniaApplication3.MainWindow.g.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\VSGeneratedDocuments\\b2601178-70bd-b190-d41e-24143bb8dd81\\AvaloniaApplication3.MainWindow.g.cs",
               "ToolTip": "AvaloniaApplication3.MainWindow.g.cs [generated by Avalonia.Generators.NameGenerator.AvaloniaNameSourceGenerator]",
@@ -239,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "AvaloniaApplication3.MainView.g.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\VSGeneratedDocuments\\0df7fa72-682f-613c-46f5-a4e6590da59f\\AvaloniaApplication3.MainView.g.cs",
               "ToolTip": "AvaloniaApplication3.MainView.g.cs [generated by Avalonia.Generators.NameGenerator.AvaloniaNameSourceGenerator]",
@@ -250,11 +242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Program.cs",
+              "DocumentMoniker": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\01. Workspace\\ThuyProject\\AvaloniaApplication3\\Program.cs",
+              "ToolTip": "D:\\01. Workspace\\03. Project\\13.R\u0026D Cobot\\Code\\HMI-Pi4B\\AvaloniaApplication3\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
